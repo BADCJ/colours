@@ -86,12 +86,12 @@ function containsAny (source,target) {
 
 function printPaint() {
 
-    return { ...paintText , ...textType , ...textBg } ;
+    return { ...paintText } ;
     
 }
 
 
-// console.log( printPaint().red("<<TEXT HERE>>")) ;
+console.log( printPaint().red("<<TEXT HERE>>",['Underscore'])) ;
 
 
 module.exports = {

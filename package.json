@@ -1,6 +1,6 @@
 {
   "name": "@badcj/colours",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "change colours of console text",
   "main": "index.js",
   "scripts": {

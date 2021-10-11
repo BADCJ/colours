@@ -39,6 +39,16 @@ Current supported colours for text and background are :
 *  cyan
 *  white
 
+And supported decorations are :
+*  Bright
+*  Dim
+*  Underscore
+*  Blink
+*  Reverse
+*  Hidden
+
+For Background color , just write the supported colour name in Pascal case in decorations array.
+
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.

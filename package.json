@@ -1,0 +1,22 @@
+{
+  "name": "@badcj/colours",
+  "version": "1.0.3",
+  "description": "change colours of console text",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BADCJ/colours.git"
+  },
+  "keywords": [
+    "colours"
+  ],
+  "author": "badcj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BADCJ/colours/issues"
+  },
+  "homepage": "https://github.com/BADCJ/colours#readme"
+}

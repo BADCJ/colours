@@ -1,6 +1,6 @@
 # @badcj/colours
 
-@badcj/colours is a JavaScript library for decorating text in cli.
+@badcj/colours is a simple and lightweight JavaScript library for decorating text in cli.
 
 ## Installation
 
@@ -17,7 +17,27 @@ const {colouredText} = require('@badcj/colours');
 
 console.log( colouredText().red("<<THIS WILL BE RED>>") );
 
+console.log( colouredText().red("<<THIS WILL BE RED AND UNDERLINED>>") );
+
+console.log( colouredText().red("<THIS WILL BE WHITE AND UNDERLINED WITH GREEN BACKGROUND>>") );
+
 ```
+
+## Results
+
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "In Console")
+
+## Options
+
+Current supported colours for text and background are :
+*  black
+*  red
+*  green
+*  yellow
+*  blue
+*  magenta
+*  cyan
+*  white
 
 
 ## Contributing

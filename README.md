@@ -17,9 +17,9 @@ const {colouredText} = require('@badcj/colours');
 
 console.log( colouredText().red("<<THIS WILL BE RED>>") );
 
-console.log( colouredText().red("<<THIS WILL BE RED AND UNDERLINED>>") );
+console.log( colouredText().red("<<THIS WILL BE RED AND UNDERLINED>>",['Underscore']) );
 
-console.log( colouredText().red("<THIS WILL BE WHITE AND UNDERLINED WITH GREEN BACKGROUND>>") );
+console.log( colouredText().red("<THIS WILL BE WHITE AND UNDERLINED WITH GREEN BACKGROUND>>",['Underscore','Green']) );
 
 ```
 

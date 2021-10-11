@@ -19,7 +19,7 @@ console.log( colouredText().red("<<THIS WILL BE RED>>") );
 
 console.log( colouredText().blue("<<THIS WILL BE BLUE AND UNDERLINED>>",['Underscore']) );
 
-console.log( colouredText().red("<THIS WILL BE WHITE AND UNDERLINED WITH GREEN BACKGROUND>>",['Underscore','Green']) );
+console.log( colouredText().white("<THIS WILL BE WHITE AND UNDERLINED WITH GREEN BACKGROUND>>",['Underscore','Green']) );
 
 ```
 

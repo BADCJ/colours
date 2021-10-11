@@ -25,7 +25,7 @@ console.log( colouredText().red("<THIS WILL BE WHITE AND UNDERLINED WITH GREEN B
 
 ## Results
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "In Console")
+![alt text](https://github.com/BADCJ/colours/blob/main/screenshots/threeInOne.png "In Console")
 
 ## Options
 

@@ -64,7 +64,7 @@ function processText (clr,str,deco=[]) {
 
     strArr.push( colorCodes[clr] , str )
 
-    resetDecorations()
+    resetDecorations();
 
     return strArr.join("") ;
     
@@ -84,7 +84,7 @@ function containsAny (source,target) {
 
 
 
-function printPaint() {
+function colouredText() {
 
     return { ...paintText } ;
     
@@ -95,6 +95,6 @@ function printPaint() {
 
 
 module.exports = {
-    printPaint
+    colouredText
 }
 

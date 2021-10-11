@@ -91,7 +91,7 @@ function printPaint() {
 }
 
 
-console.log( printPaint().red("<<TEXT HERE>>",['Underscore'])) ;
+// console.log( printPaint().red("<<TEXT HERE>>",['Underscore'])) ;
 
 
 module.exports = {
